@@ -1,0 +1,11 @@
+compound_sf;compound_rt;compound_name_iupac;pubchem_id;comment
+C13H24O4;5.478;;;from KMD-CH2vsMW plot
+C14H12;10.114;1-phenylethenylbenzene;10740;from KMD-CH2vsMW plot
+C16H16;11.354;1-phenylbut-1-enylbenzene;519378;from KMD-CH2vsMW plot
+C16H14;;;;from KMD-CH2vsMW plot
+C19H20;12.457;;;from KMD-CH2vsMW plot
+C19H14;11.607;9-phenyl-9H-fluorene;13091;from KMD-CH2vsMW plot
+C20H16;12.052;9-phenyl-9,10-dihydrophenanthrene;4270615;from KMD-CH2vsMW plot
+C21H18;12.478;;;from KMD-CH2vsMW plot
+C17H14O2;7.508;;;from KMD-CH2vsMW plot
+C14H12O4;6.28;4-[(E)-2-(3,5-dihydroxyphenyl)ethenyl]benzene-1,2-diol;667639;from KMD-CH2vsMW plot
